@@ -1,0 +1,120 @@
+#my-theme {
+  max-width: 700px;
+  margin: auto;
+
+}
+
+#my-theme h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}
+
+#my-theme p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+}
+
+my-theme img {
+  width: 100%;
+}
+
+#my-theme .header-theme {
+  background-color: black;
+  padding: 20px;
+}
+
+#my-theme .header-theme h1 {
+  color: yellow;
+}
+
+#my-theme .nav-theme {
+  text-align: right;
+  padding: 5px;
+  padding-top: 15px;
+}
+
+#my-theme .nav-theme a {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  color: white;
+  margin: 5px;
+}
+
+#my-theme .capitalize {
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+
+#my-theme .tag-line {
+  background-color: #e0e3e5;
+  padding: 15px;
+  font-style: italic;
+}
+
+#my-theme del {
+  color: #b3b5b7;
+}
+
+#my-theme .underline {
+  border-bottom: 2px yellow solid;
+}
+
+#my-theme .background-image {
+  background-image: url(../assets/coworking.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.fix {
+  margin: 0;
+}
+
+#my-theme .picture-row-height {
+  min-height: 400px;
+}
+
+#my-theme .aside {
+  background-color: rgba(238,236,236,0.7);
+  margin: 40px;
+  padding: 30px;
+}
+
+#my-theme button {
+  box-shadow: 2px 2px rgba(192,192,192,0.8);
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+
+#my-theme .aside-button-colors {
+  background-color: yellow;
+  color: black;
+}
+
+#my-theme .section-bottom {
+  margin: 30px;
+  margin-top: 40px;
+}
+
+#my-theme .three-columns {
+  padding: 10px;
+}
+
+#my-theme .column-border-left {
+  border-left: 1px solid #b3b5b7;
+}
+
+#my-theme .column-border-right {
+  border-right: 1px solid #b3b5b7;
+}
+
+#my-theme .footer-theme {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 16px;
+}
